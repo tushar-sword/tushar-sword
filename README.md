@@ -1,5 +1,5 @@
 # 💫 About Me:
-Tushar this Side <br>Final-year B.Tech CSE student & Full-Stack Developer with Devops Qualities.<br><br>I enjoy building scalable web applications and exploring system design, distributed systems, and real-world problem solving. I’ve solved 450+ DSA problems and love turning ideas into production-ready products.<br><br>💻 Languages: Java, JavaScript, TypeScript<br>⚙️ Backend: Node.js, Express.js, Microservices, Distributed Systems, Redis<br>🗄️ Databases: PostgreSQL, MongoDB<br>🎨 Frontend: React, Redux/Zustand, Tailwind CSS<br>🚀 DevOps & Tools: AWS S3, Git, GitHub, Jenkins, Docker, Kubernetes, Postman<br>🧠 CS Fundamentals: DSA, OOP, OS, DBMS, Computer Networks
+Tushar this Side <br>Final-year B.Tech CSE student & SDE with Devops Engineer Qualities too.<br><br>I enjoy building scalable web applications and exploring system design, distributed systems, and real-world problem solving. I’ve solved 450+ DSA problems and love turning ideas into production-ready products.<br><br>💻 Languages: Java, JavaScript, TypeScript<br>⚙️ Backend: Node.js, Express.js, Microservices, Distributed Systems, Redis<br>🗄️ Databases: PostgreSQL, MongoDB<br>🎨 Frontend: React, Redux/Zustand, Tailwind CSS<br>🚀 DevOps & Tools: AWS S3, Git, GitHub, Jenkins, Docker, Kubernetes, Postman<br>🧠 CS Fundamentals: DSA, OOP, OS, DBMS, Computer Networks
 
 
 ## 🌐 Socials:
